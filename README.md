@@ -15,7 +15,7 @@ To build and run this app locally you will need a few things:
 - Clone the repository
 
 ```
-git clone --depth=1 https://github.com/cavli-wireless/nodejs-typescript-rest-api
+git clone --depth=1 https://github.com/joeljosephchalakudy/nodejs-typescript-rest-api
 ```
 
 - Install dependencies
